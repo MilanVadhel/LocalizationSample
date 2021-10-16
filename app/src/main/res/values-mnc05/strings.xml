@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Localization</string>
+    <string name="testing_localization">Testing Localization</string>
+</resources>
